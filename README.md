@@ -1,3 +1,3 @@
 # Portfólio-Alexandre
 
-Site portfólio feito para tatuadores darem um upgrade em seu Network 
+Meu portfólio onde você pode ver mais sobre mim e minhas skills.
